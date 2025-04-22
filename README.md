@@ -1,2 +1,1 @@
-# friendly-winner
-checkpoint
+# checkpoint
